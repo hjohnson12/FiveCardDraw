@@ -2,6 +2,11 @@
 
 This application is an implementation of five card draw originally written in VB.net but re-written in C# Windows Forms. The project was re-written in 12/03/2016.
 
+***This version is not currently being worked on***
+  * May add new controls with Xaml Islands at some point
+
+# Screenshots
+
 ##### Player lost, dealer one with one pair:
 
 ![Image of Program1](Poker-5CardDraw/Images/AppEx1.png)
